@@ -111,10 +111,10 @@ for (var item in available_models) {
     model_select.add(option);
 }
 
-var current_model_name = "microsoft-coco";
+var current_model_name = "Smoke-Detection";
 var current_model_version = 9;
-const API_KEY = "rf_U7AD2Mxh39N7jQ3B6cP8xAyufLH3";
-const DETECT_API_KEY = "4l5zOVomQmkAqlTJPVKN";
+const API_KEY = "rf_9n5BLWvJ4sPiVjwOJnkSRhf2HFD2";
+const DETECT_API_KEY = "tpl0ecEnlXm6tZv0zr7M";
 const CAMERA_ACCESS_URL = 
 "https://uploads-ssl.webflow.com/5f6bc60e665f54545a1e52a5/63d40cd1de273045d359cf9a_camera-access2.png";
 const LOADING_URL = 
